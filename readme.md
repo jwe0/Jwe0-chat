@@ -2,7 +2,7 @@
 > Simple chat room written in python
 
 # Install
-1. Clone the repository with `git clone https://github.com/jwe0/jwe0-chat`.
+1. Clone the repository with `git clone https://github.com/jwe0/Jwe0-chat`.
 2. Run `cd jwe0-chat` to change your working direcory to the repository.
 3. To setup the server open the config file in the `Deps/` folder then change the config settings as you see fit. Then run `python server.py`.
 4. To setup the client simply run the command `python client.py --host [host ip] --port [host port] --username [your username]`
